@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="GetAlert Logo" width="150"/>
+</p>
+
 # GetAlert
 
 **GetAlert** is a modern SaaS platform designed to automate communication in private group environments like residential buildings, schools, churches, and community organizations.
@@ -13,7 +17,7 @@ The platform enables users to schedule and automate group messages, saving them 
 
 ## 💡 Business stage
 
-GetAlert is currently in the MVP phase and open to early adopters. We are validating product-market fit through small-scale pilot users while preparing for public launch.
+GetAlert is currently in MVP phase and open to early adopters. We are validating product-market fit through small-scale pilot users while preparing for public launch.
 
 ## 🧩 Target users
 
@@ -24,3 +28,7 @@ Community managers, building administrators, schools, churches, clubs, and other
 - 🌐 Website: [https://getalert.net](https://getalert.net)
 - 📧 Email: contact@getalert.net
 - 🐙 GitHub: [https://github.com/GetAlertAI](https://github.com/GetAlertAI)
+
+---
+
+> This document is a general overview for startup programs such as AWS Activate. If you're an evaluator or partner, feel free to reach out for more details.
